@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.table2div {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 8px;
+  width: 100%;
+}
+.table2 {
+  width: 100%;
+  font-size: 12px;
+}
+.table2,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  padding-left: 3px;
+}
+.w3 {
+  text-align: left;
+  text-transform: capitalize;
+  padding-right: 10px;
+  padding-top: 3px;
+}
+.w4 {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 2px;
+  font-weight: 800;
+}
+.w5 {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 10px 0;
+  padding: 10px 1px;
+}
+.head1_color {
+  text-align: center;
+  padding: 3px;
+}
+.w7 {
+  text-align: left;
+  font-weight: 600 !important;
+}
+.table2 th {
+  font-weight: 600;
+  padding: 2px;
+  padding-top: 3px;
+}
+.table2 td {
+  font-weight: 600;
+  padding: 2px;
+  padding-top: 3px;
+}
+
+.input_field2 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 26px;
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 8px;
+}
+.input_field3 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 70px;
+  font-weight: 600;
+  padding-left: 10px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-top: 3px;
+}
+.input_field9 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 26px;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-left: 6px;
+  padding-top: 3px;
+}
+.input_field10 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 26px;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-left: 2px;
+  padding-top: 3px;
+}
+.input_field11{
+
+  width: 56px;
+  padding-left: 16px; 
+}
+.input_field14 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 40px;
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 8px;
+  /* background-color: aquamarine; */
+}
+.input_field25{
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 40px;
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 12px;
+  /* background-color: aquamarine */
+}
+

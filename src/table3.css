@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .table3div {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 8px;
+  }
+  .table3 {
+    width: 100%;
+    font-size: 13px;
+  }
+  .table3,
+  th,
+  td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding-left: 5px;
+  }
+  .table3 th {
+    padding: 5px;
+  }
+  .table3 td {
+    padding: 4px;
+  }
+  .t3 {
+    text-align: center;
+  }
+  .table3 td{
+    font-weight: 600;
+  }
+  .input_field12{
+    background: transparent;
+  border: none;
+  outline: none;
+  width: 45px;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-left: 2px;
+ 
+
+  }
+  .t4{
+    width: 80px;
+  }
+  

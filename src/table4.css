@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .table4div {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .table4 {
+    width: 50%;
+    font-size: 13px;
+    margin-top: 13px;
+  }
+  .table4,
+  th,
+  td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-left: 3px;
+  }
+  .table4 td {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    
+    
+  }
+  .table4 th {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+  
+    
+
+  }
+  .grade_head{
+    font-size: 15px;
+  }
+  
+ 
+  
