@@ -17,7 +17,7 @@ export class App extends React.PureComponent {
       <div className="App">
         <Header />
         <div className="photo_container">
-          <Photo />
+          
         </div>
         <Table1 />
         <Table2 />
