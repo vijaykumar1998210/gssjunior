@@ -28,7 +28,8 @@ body {
   content: "";
   right: 0;
   margin-right: -70px;
-  top: 18px;
+  padding-top: 18px;
+  top: 0px;
 }
 .bg_gradient{
   width: 100vw;
